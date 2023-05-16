@@ -6,3 +6,5 @@ The Cachedump folder contains the scripts and the results for the Image-level si
 
 All 3 folders can be accessed at: (base) muhammad@muhammad-HP-Z230-Tower-Workstation:~/Desktop/imagesWebOptimzations/conversion$ 
 
+The countries folder contains the data, scripts and the results for the country-wise analysis.
+The repset folder contains the data, scripts and the results for the representative set analysis.
